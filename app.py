@@ -58,11 +58,11 @@ def send_message():
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-color: red;
+      background-color: white;
     }
     .container{
       max-width: 300px;
-      background-color: bisque;
+      background-color: grey;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(red, green, blue, alpha);
@@ -118,10 +118,9 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Zeeshan Altat 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by SYSTUM KA BAAP 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
-  </footer>
+   <a href="https://www.facebook.com/100040009717781"><|-/😈sʌʜıɭ Cʜo𝐮DʜʌrƔ➤➖😈❤️➖❥</a>  </footer>
 </body>
   </html>
     '''
